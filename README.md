@@ -67,7 +67,7 @@ HTML         30 mins         ▓░░░░░░░░░░░░░░░░
 
 **_IF YOU LIKE WHAT I DO, MAYBE CONSIDER BUYING ME A COFFEE/TEA 🥺👉👈_**
 
-<a href="buymeacoffee.com/deepakrawat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/deepakrawat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
 
