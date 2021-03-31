@@ -1,4 +1,4 @@
-## **Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">**
+## **Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">**
 
 <img align="right" alt="GIF" src="./ICON.gif" width="500" height="320" /> 
 
