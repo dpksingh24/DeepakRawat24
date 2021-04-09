@@ -17,8 +17,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![Mail Badge](https://img.shields.io/badge/-@Deepak_Rawat-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dpk__rwt_/) 
 [![Mail Badge](https://img.shields.io/badge/-Deepak_Rawat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dpkrwt00@gmail.com)
 
-<!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
-
 <br>
 
 ## **🔧 Languages & Tools:**
@@ -50,6 +48,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ## ⚡ **One line that describes me best?**
 _Hardworking, day dream at nights and sometime codes too.😉😉_
+
+_**📝[Resume](https://drive.google.com/file/d/1vdMsdO_dsVoGxbAQH9K_k1RGKBoT7SUL/view?usp=sharing)**_
 
 <br>
 
