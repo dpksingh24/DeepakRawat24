@@ -4,7 +4,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=DeepakRawat24) -->
 
-Hi, I'm [DEEPAK SINGH RAWAT](https://deepakrawat.vercel.app/), a self-taught Software engineer. My passion for tech is inventing new ideas and bringing them to life through beautiful user interfaces. I put a lot of thought into the user interface, design, and code quality of the products I create.
+Hi, I'm [DEEPAK SINGH RAWAT](https://deepakrawat.vercel.app/), a Software engineer. My passion for tech is inventing new ideas and bringing them to life through beautiful user interfaces. I put a lot of thought into the user interface, design, and code quality of the products I create.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how it facilitates collaboration and information sharing.
 <br> 
