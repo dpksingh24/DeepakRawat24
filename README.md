@@ -35,10 +35,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## ⚡ **One line that describes me best?**
 _Hardworking, day dream at nights and sometime codes too.😉😉_
 
-_**📝[Resume](https://drive.google.com/file/d/17kwcNOwNibpZ2dMSW0fhRfuU5hEiA5AU/view?usp=sharing)**_
-
-<br>
-
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
