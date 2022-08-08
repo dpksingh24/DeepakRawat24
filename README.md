@@ -55,20 +55,6 @@ Other        1 hr 1 min      █▒░░░░░░░░░░░░░░░
 
 <a href="https://www.buymeacoffee.com/deepakrawat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<br>
-
-## 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-
-🏆  1,508 Karma Points           
-💻  30+ Completed Websites      
-📝  8+ Completed Personal Projects       
-🌸  Completed 1 tasks today            
-✅  Completed 632 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-<br>
 
 ## 📈 **My GitHub Stats**
 
