@@ -9,7 +9,6 @@ Hi, I'm [DEEPAK SINGH RAWAT](https://deepakrawat.vercel.app/), a Software engine
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how it facilitates collaboration and information sharing.
 <br> 
 ### 🤝 Connect with me:
-[![Mail Badge](https://img.shields.io/badge/-Deepak_Rawat-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3qaBznqWP7F6sYOkN5OEGg) 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak_Rawat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepaksingh24/) 
 
 <br>
